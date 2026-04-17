@@ -19,24 +19,9 @@ A curated collection of **computer science projects for final year students**, c
 ## 📚 Categories
 
 ### 🌐 Web Development Projects
-
-* MERN Auth App → tutorials/web/mern-auth-app.md
-* Real-time Chat App → tutorials/web/chat-app.md
-
----
-
 ### 🤖 Machine Learning Projects
-
-* Image Classifier → tutorials/ml/image-classifier.md
-* Stock Sentiment Analyzer → tutorials/ml/sentiment-analyzer.md
-
----
-
 ### ⛓️ Blockchain Projects
-
-* Voting DApp → tutorials/blockchain/voting-dapp.md
-
----
+###  Fintech Projects
 
 ## 🚀 Why this repo?
 
