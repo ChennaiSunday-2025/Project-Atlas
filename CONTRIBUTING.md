@@ -1,15 +1,17 @@
 # 🤝 Contributing to Project Atlas
 
 Thank you for your interest in contributing! 🚀
-Project Atlas is an open-source collection of **computer science projects for students**, and we welcome high-quality contributions.
+**Project Atlas** is an open-source collection of **computer science projects for students**, and we welcome high-quality contributions.
 
 ---
 
 ## 📌 Contribution Guidelines
 
-Please follow these rules to keep the repository clean and useful:
+Please follow these rules to keep the repository clean, consistent, and useful for everyone.
 
-### ✅ 1. Choose the correct folder
+---
+
+### ✅ 1. Choose the Correct Folder
 
 Add your project to the appropriate category:
 
@@ -22,13 +24,13 @@ Add your project to the appropriate category:
 
 ### ✅ 2. File Naming Convention
 
-Use **lowercase and hyphens**:
+Use **lowercase letters and hyphens only**:
 
 ```
 project-name.md
 ```
 
-✔️ Example:
+✔️ Examples:
 
 ```
 mern-auth-app.md
@@ -44,7 +46,7 @@ project123!!.md
 
 ---
 
-### ✅ 3. Required Structure (IMPORTANT)
+### ✅ 3. Required Structure (MANDATORY)
 
 Each project file must follow this format:
 
@@ -94,12 +96,12 @@ Explain how the project works (high-level).
 
 * ✔️ Original content only (no copy-paste)
 * ✔️ Clear and concise explanations
-* ✔️ Proper formatting (Markdown)
+* ✔️ Proper Markdown formatting
 * ✔️ Working GitHub repository link
 
 ---
 
-### ❌ Do NOT:
+### ❌ Do NOT
 
 * Add spam or incomplete projects
 * Submit broken or empty repositories
@@ -120,15 +122,15 @@ Explain how the project works (high-level).
 
 ## 📥 Pull Request Guidelines
 
-* Use a clear title
-* Describe your project briefly
-* Ensure it follows all rules
+* Use a clear and descriptive title
+* Briefly explain your project
+* Ensure it follows all guidelines
 
 ---
 
 ## 🤖 Generate Your Project README (Easy Method)
 
-To maintain consistency, you can use this prompt with ChatGPT (or any AI tool) to generate your project file:
+To maintain consistency, you can use this prompt with ChatGPT (or any AI tool):
 
 ---
 
@@ -177,19 +179,19 @@ After generating, review and refine the content before submitting your PR.
 ---
 
 🚀 This helps maintain a clean and consistent format across all contributions.
+
 ---
 
 ## 🌟 Contributor Recognition
 
-All contributors will be recognized for their contributions. Thank you for helping build Project Atlas! 💙
+All contributors will be recognized. Thank you for helping build **Project Atlas** 💙
 
 ---
 
 ## 💡 Need Help?
 
-If you’re unsure, feel free to open an issue or ask questions.
+If you're unsure about anything, feel free to open an issue or ask questions.
 
 ---
 
 Happy building! 🚀
-
