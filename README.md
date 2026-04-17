@@ -18,10 +18,14 @@ A curated collection of **computer science projects for final year students**, c
 
 ## 📚 Categories
 
-### 🌐 Web Development Projects - Build real-world web applications using modern full-stack technologies.
-### 🤖 Machine Learning Projects - Explore AI and data-driven applications using machine learning techniques.
-### ⛓️ Blockchain Projects - Develop decentralized applications and smart contract-based systems using cryptocurrencies
-### 💰 Fintech Projects - Build financial applications using data analysis and predictive modeling.
+### 🌐 Web Development Projects 
+- Build real-world web applications using modern full-stack technologies.
+### 🤖 Machine Learning Projects
+- Explore AI and data-driven applications using machine learning techniques.
+### ⛓️ Blockchain Projects
+- Develop decentralized applications and smart contract-based systems using cryptocurrencies
+### 💰 Fintech Projects
+- Build financial applications using data analysis and predictive modeling.
 
 ## 🚀 Why this repo?
 
