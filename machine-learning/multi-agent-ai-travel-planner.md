@@ -43,7 +43,7 @@ This project demonstrates how multiple AI agents can collaborate to automate the
 
 These agents communicate and coordinate through a structured workflow to produce a complete and personalized travel plan.
 
-Multi-agent systems improve modularity, scalability, and decision-making by dividing complex tasks into smaller, manageable components. ([app.readytensor.ai][1])
+Multi-agent systems improve modularity, scalability, and decision-making by dividing complex tasks into smaller, manageable components.
 
 ---
 
@@ -66,5 +66,3 @@ Multi-agent systems improve modularity, scalability, and decision-making by divi
 * Optimize agent communication and latency
 
 ---
-
-[1]: https://app.readytensor.ai/publications/multi-agent-travel-planner-production-grade-c7w18TIYTHSD?utm_source=chatgpt.com "Multi Agent Travel Planner - Production Grade"
