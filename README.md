@@ -1,6 +1,6 @@
 # 🌍 Project Atlas — Awesome CS Projects 🚀
 
-A curated collection of **computer science projects for final year students**, covering Web Development, Machine Learning, and Blockchain.
+A curated collection of **computer science projects for learning and building**, covering Web Development, Machine Learning, Blockchain, and Fintech.
 
 > Learn by building real-world projects.
 
@@ -10,29 +10,38 @@ A curated collection of **computer science projects for final year students**, c
 
 **Project Atlas** is an open-source hub of:
 
-* Final year projects for CSE students
 * Real-world project ideas with implementations
 * Beginner → Advanced level resources
+* Hands-on learning through practical projects
 
 ---
 
 ## 📚 Categories
 
-### 🌐 Web Development Projects 
-- Build real-world web applications using modern full-stack technologies.
+### 🌐 Web Development Projects
+
+* Build real-world web applications using modern full-stack technologies.
+
 ### 🤖 Machine Learning Projects
-- Explore AI and data-driven applications using machine learning techniques.
+
+* Explore AI and data-driven applications using machine learning techniques.
+
 ### ⛓️ Blockchain Projects
-- Develop decentralized applications and smart contract-based systems using cryptocurrencies
+
+* Develop decentralized applications and smart contract-based systems.
+
 ### 💰 Fintech Projects
-- Build financial applications using data analysis and predictive modeling.
+
+* Build financial applications using data analysis and predictive modeling.
+
+---
 
 ## 🚀 Why this repo?
 
-* 📈 Best **final year project ideas for CSE**
+* 📈 Curated **CS projects for practical learning**
 * 🧠 Learn by building real applications
 * 🌍 Open-source contributions welcome
-* 💼 Helps with resumes & placements
+* 💼 Helps strengthen skills and portfolios
 
 ---
 
@@ -54,13 +63,13 @@ If this helped you:
 
 * ⭐ Star this repo
 * 🍴 Fork and contribute
-* 📣 Share with friends
+* 📣 Share with others
 
 ---
 
 ## 🔑 Keywords (for discoverability)
 
-final year projects cse, computer science projects github, machine learning projects, web development projects, student projects
+computer science projects github, machine learning projects, web development projects, blockchain projects, student projects, learn by building
 
 ---
 
